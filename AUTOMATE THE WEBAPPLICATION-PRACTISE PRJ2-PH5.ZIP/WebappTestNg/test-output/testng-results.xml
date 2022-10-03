@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T18:35:49 IST" name="Default suite" finished-at="2022-10-03T18:35:58 IST" duration-ms="9370">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T18:35:49 IST" name="Default test" finished-at="2022-10-03T18:35:58 IST" duration-ms="9370">
+      <class name="com.simplilearn.demo.Registertest">
+        <test-method signature="f()[pri:0, instance:com.simplilearn.demo.Registertest@49c7b90e]" started-at="2022-10-03T18:35:49 IST" name="f" finished-at="2022-10-03T18:35:58 IST" duration-ms="9314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.simplilearn.demo.Registertest@49c7b90e]" started-at="2022-10-03T18:35:58 IST" name="afterTest" finished-at="2022-10-03T18:35:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.simplilearn.demo.Registertest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
